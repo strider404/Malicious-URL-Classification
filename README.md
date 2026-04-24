@@ -35,4 +35,4 @@
 1. Clone the repository: `git clone https://github.com/strider404/Malicious-URL-Classification.git`
 2. Navigate to the directory: `cd Malicious-URL-Classification`
 3. Install dependencies: `pip install -r requirements.txt`
-4. Open and run `notebooks/DS.ipynb`.
+4. Open and run `notebooks/malicious_url.ipynb`.
